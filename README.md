@@ -39,7 +39,8 @@ This repository is structured for learning, practice, and building a portfolio.
 | **Bastion Host Setup**               | Secure infrastructure with a bastion host.           |
 | **File Integrity Checker**           | Detect log tampering by verifying file integrity.    |
 
-### 🔴 Advanced| Project                             | Description                                              |
+### 🔴 Advanced
+| Project                             | Description                                              |
 | ----------------------------------- | -------------------------------------------------------- |
 | **Blue-Green Deployment**           | Implement zero-downtime blue/green deployments.          |
 | **Prometheus & Grafana Monitoring** | Collect and visualize metrics with Prometheus & Grafana. |
@@ -63,7 +64,7 @@ Linux Tools: Systemd, SSH, CLI scripting
 
 ## 📖 Usage
 Each project is organized in its own directory:
-.
+
 ├── beginner/
 │   ├── server-performance-stats/
 │   ├── log-archive-tool/
@@ -77,6 +78,7 @@ Each project is organized in its own directory:
 │   ├── blue-green-deployment/
 │   ├── prometheus-grafana/
 │   └── ...
+
 
 Navigate to the project folder.
 

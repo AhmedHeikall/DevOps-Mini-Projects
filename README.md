@@ -62,7 +62,7 @@ Web Servers: Nginx
 
 Linux Tools: Systemd, SSH, CLI scripting
 
-## 📖 Usage
+## 📖 ## Project Structure Usage
 Each project is organized in its own directory:
 
 

@@ -65,19 +65,20 @@ Linux Tools: Systemd, SSH, CLI scripting
 ## 📖 Usage
 Each project is organized in its own directory:
 
+.
 ├── beginner/
-│   ├── server-performance-stats/
-│   ├── log-archive-tool/
-│   ├── nginx-log-analyzer/
-│   └── ...
+│   ├── server-performance-stats/     # Analyze basic server performance (CPU, memory, disk)
+│   ├── log-archive-tool/             # CLI tool to archive logs with timestamp
+│   ├── nginx-log-analyzer/           # Analyze Nginx logs from the command line
+│
 ├── intermediate/
-│   ├── ansible-config-management/
-│   ├── terraform-iac-digitalocean/
-│   └── ...
+│   ├── ansible-config-management/    # Server config automation with Ansible
+│   ├── terraform-iac-digitalocean/   # Provision infrastructure with Terraform
+│
 ├── advanced/
-│   ├── blue-green-deployment/
-│   ├── prometheus-grafana/
-│   └── ...
+│   ├── blue-green-deployment/        # Zero-downtime blue/green deployments
+│   ├── prometheus-grafana/           # Monitoring with Prometheus & Grafana
+│   └── .../                          # ...
 
 
 Navigate to the project folder.

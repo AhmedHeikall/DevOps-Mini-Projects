@@ -79,7 +79,7 @@ Each project is organized in its own directory:
 │   ├── blue-green-deployment/        # Zero-downtime blue/green deployments
 │   ├── prometheus-grafana/           # Monitoring with Prometheus & Grafana
 │   └── .../                          # ...
-
+└──
 
 Navigate to the project folder.
 

@@ -63,9 +63,7 @@ Web Servers: Nginx
 Linux Tools: Systemd, SSH, CLI scripting
 
 ## 📖 ## Project Structure 
-Each project is organized in its own directory:
-
-
+Each project is organized in its own directory
 .
 ├── beginner/
 │ ├── server-performance-stats/ # Analyze basic server performance (CPU, memory, disk)
@@ -89,8 +87,11 @@ Follow the setup instructions in its README.md.
 ## 🌟 Why This Repo?
 
 ✔️ Hands-on practice with real-world DevOps tasks.
+
 ✔️ Covers fundamentals → intermediate → advanced levels.
+
 ✔️ Acts as a DevOps portfolio for recruiters.
+
 ✔️ Modular projects — pick what you need.
 
 
